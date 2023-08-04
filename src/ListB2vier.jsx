@@ -135,7 +135,7 @@ const ListB2vier = [
             {answer:"sollten sie eine Versicherung abschließen.", isCorrect:true},
         ]
     },{
-        question:"Anke ist Krankenschwester geworden",
+        question:"Anke ist Krankenschwester geworden,",
         answersList: [
             {answer:"obwohl sie lange Arbeitszeiten hat.", isCorrect:true},
             {answer:"weil sie lange arbeiten möchte.", isCorrect:false},
